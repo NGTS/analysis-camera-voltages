@@ -1,16 +1,16 @@
 # Camera voltage analysis
 
-### [Voltage analysis](https://github.com/NGTS/analysis-camera-voltages/blob/master/VoltageAnalysis.ipynb)
+### [Voltage analysis](http://nbviewer.ipython.org/github/NGTS/analysis-camera-voltages/blob/master/VoltageAnalysis.ipynb)
 
 The initial analysis exploring the saturation levels for the different camera voltages. It shows that changing the voltage towards higher settings (e.g. VI+223) yields a higher saturation limit at little to no cost. *There is still the question of the noise levels of bright non-saturated stars though.*
 
-### [Frame histograms](https://github.com/NGTS/analysis-camera-voltages/blob/master/frame_histograms.ipynb)
+### [Frame histograms](http://nbviewer.ipython.org/github/NGTS/analysis-camera-voltages/blob/master/frame_histograms.ipynb)
 
 A study of histograms of the raw frames for three voltages (chosen to have similar conditions night to night), showing the different saturation points and full well levels.
 
 Towards the bottom is a comparison of the flux levels measured by the pipeline in single images across the three voltage settings. I have not interpreted this yet.
 
-### [Other camera comparison](https://github.com/NGTS/analysis-camera-voltages/blob/master/other_camera_comparison.ipynb)
+### [Other camera comparison](http://nbviewer.ipython.org/github/NGTS/analysis-camera-voltages/blob/master/other_camera_comparison.ipynb)
 
 Can we use other cameras observing the same field to calibrate the camera with a different voltage?
 
@@ -21,10 +21,10 @@ I tested two cameras with the *same* voltage settings for this test to set a bas
 
 ## Workbooks still in progress
 
-### [Paladin analysis](https://github.com/NGTS/analysis-camera-voltages/blob/master/paladin_analysis.ipynb)
+### [Paladin analysis](http://nbviewer.ipython.org/github/NGTS/analysis-camera-voltages/blob/master/paladin_analysis.ipynb)
 
 An attempt to compare cameras just using the output from Paladin.
 
-### [Simultaneous analysis](https://github.com/NGTS/analysis-camera-voltages/blob/master/simultaneous_analysis.ipynb)
+### [Simultaneous analysis](http://nbviewer.ipython.org/github/NGTS/analysis-camera-voltages/blob/master/simultaneous_analysis.ipynb)
 
 An early attempt to compare cameras.
